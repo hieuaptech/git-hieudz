@@ -2,3 +2,5 @@ Sửa đây
 Oke chưa
 
 addsadasdasd
+
+commit  pussh xong cos theer tao pull requuest neu co nhieu branch
